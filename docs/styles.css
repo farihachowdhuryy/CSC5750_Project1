@@ -29,7 +29,8 @@ p, div {
 
 .centered-image {
     display: block;
-    
+    margin-right: auto;
+    margin-left: auto;
     max-width: 100%;
     height: auto;
     border: 1px solid #4B286D;
